@@ -119,15 +119,9 @@ AI-based detection and classification of industrial fires and persistent thermal
 
 **Focus**
 
-Disaster Management • AI • Geospatial Technology
+Disaster Management • AI • Computer Vision • Geospatial Technology
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+**Status:** Prototype
 
 ### 🎾 Tennis Auction
 
@@ -194,7 +188,7 @@ https://placement-suite-two.vercel.app/
 
 ### 🎮 Personal Portfolio
 
-A game-inspired developer portfolio showcasing my projects, skills and development journey.
+My personal developer portfolio showcasing my projects, skills, technologies and development journey.
 
 **Focus**
 
@@ -202,11 +196,8 @@ Creative UI • Animations • Projects • Developer Portfolio
 
 `HTML` `CSS` `JavaScript`
 
-</td>
-
-</tr>
-
-</table>
+**Live Portfolio:**  
+https://sreekar-thota-portfolio.vercel.app/
 
 ---
 
