@@ -279,7 +279,6 @@ My focus is on building projects that are:
 ## 🔭 Currently Building
 
 ```text
-→ Improving GestureSnap
 → Exploring AI & Computer Vision
 → Building full-stack applications
 → Working on hackathon ideas
