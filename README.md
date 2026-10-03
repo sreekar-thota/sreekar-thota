@@ -113,7 +113,20 @@ Placement preparation and student-focused web platform.
 </td>
 
 </tr>
-</table>
+</table> 
+<td width="50%">
+
+### ☁️ InCloudHub
+
+Student-built campus platform combining academic resources and cloud-based campus services.
+
+**Features:** Notes • Question Papers • Department Hubs • Attendance • Cloud Food Delivery
+
+**Stack:** HTML • CSS • JavaScript • Firebase • APIs
+
+[Live Project](https://incloudhub.blogspot.com/)
+
+</td>
 ## 📊 Building & Exploring
 
 | 🚀 Projects | 📦 Repositories | 🏆 Hackathons | 💻 Technologies |
@@ -151,3 +164,11 @@ Building practical solutions around:
 - Computer Vision
 - Geospatial Technology
 - Web Applications
+## 🔭 Currently Building
+
+```text
+→ Improving GestureSnap
+→ Exploring AI & Computer Vision
+→ Building full-stack applications
+→ Working on hackathon ideas
+→ Learning new technologies
